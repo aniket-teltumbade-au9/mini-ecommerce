@@ -1,2 +1,2 @@
-# mini-ecommerce
+# breaking-bad-app
 Created with CodeSandbox
